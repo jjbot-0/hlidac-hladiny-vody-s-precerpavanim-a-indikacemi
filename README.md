@@ -3,7 +3,7 @@ Hlídač hladiny vody s automatickým přečerpáváním, generátorem a indikac
 
 # Hlídač hladiny vody s automatickým přečerpáváním, generátorem a indikacemi
 
-**Autor: Filip Salač**
+**Autor: Filip S.**
 
 ---
 
