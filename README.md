@@ -21,7 +21,7 @@ Cílem projektu je vytvořit funkční model zařízení, které sleduje hladinu
 - Zobrazení údajů na displeji: hladina, čerpadlo, napětí, teploty
 - Reakce na pohyb (např. rozsvícení světla před domem)
 - Webové rozhraní přístupné z mobilu/PC
-- Napájení z baterie (Li-ion 18650)
+- Napájení z baterie (12VDC olověný akumulátor,2,6 Ah)
 
 ---
 
@@ -58,10 +58,14 @@ ESP32 jako web server pro zobrazení a případné ovládání přes mobilní za
 
 ---
 
-## 📂 Struktura repozitáře
+<pre>
+## 📁 Struktura repozitáře
+<code>
 ├── code/              # Kód pro ESP32
 ├── fritzing/          # Schémata a návrhy zapojení
 ├── photos/            # Fotodokumentace projektu
 ├── docs/              # Technická dokumentace
 ├── partslist.md       # Seznam komponent
 └── README.md          # Tento soubor
+</code>
+</pre>
